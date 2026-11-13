@@ -1,0 +1,42 @@
+{
+  "raw_shape": [
+    5110,
+    12
+  ],
+  "processed_shape": [
+    5110,
+    22
+  ],
+  "stroke_counts": {
+    "0": 4861,
+    "1": 249
+  },
+  "stroke_percent": 4.87279843444227,
+  "missing_counts": {
+    "id": 0,
+    "gender": 0,
+    "age": 0,
+    "hypertension": 0,
+    "heart_disease": 0,
+    "ever_married": 0,
+    "work_type": 0,
+    "Residence_type": 0,
+    "avg_glucose_level": 0,
+    "bmi": 201,
+    "smoking_status": 0,
+    "stroke": 0
+  },
+  "bmi_missing_percent": 3.9334637964774952,
+  "smoking_unknown_count": 1544,
+  "duplicate_rows": 0,
+  "duplicate_ids": 0,
+  "bmi_zeros_after_teacher_preprocessing": 201,
+  "dataset_sha256": "644d473b05d2797006bd94865e4f8bb057f0c721617911613c82c8fcfc707420",
+  "versions": {
+    "pandas": "3.1.1",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1",
+    "imbalanced-learn": "0.14.2"
+  }
+}
